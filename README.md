@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0268-missing-number) |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
