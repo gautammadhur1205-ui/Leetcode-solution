@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0724-find-pivot-index) |
 | [1672-richest-customer-wealth](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
@@ -63,5 +64,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0724-find-pivot-index) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
