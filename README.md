@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
 |  |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
