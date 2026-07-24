@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
