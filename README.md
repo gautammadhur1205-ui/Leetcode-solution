@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## String
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0268-missing-number) |
 ## Math
 |  |
