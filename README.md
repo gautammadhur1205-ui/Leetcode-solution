@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0242-valid-anagram) |
+| [1763-longest-nice-substring](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0268-missing-number) |
+| [1763-longest-nice-substring](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/1763-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -74,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0268-missing-number) |
+| [1763-longest-nice-substring](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
+| [1763-longest-nice-substring](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/0053-maximum-subarray) |
+| [1763-longest-nice-substring](https://github.com/gautammadhur1205-ui/Leetcode-solution/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
